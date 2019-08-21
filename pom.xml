@@ -60,7 +60,7 @@
 						</configuration>
 						<phase>prepare-package</phase>
 						<goals>
-							<goal>exploded</goal>
+							<goal>default</goal> <!-- exploded -->
 						</goals>
 					</execution>
 				</executions>
